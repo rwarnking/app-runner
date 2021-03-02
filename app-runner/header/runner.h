@@ -13,7 +13,7 @@
 ///////////////////////
 #include "header/scene_manager.h"						// NOLINT
 #include "header/ubrotengine_dx11.h"					// NOLINT
-#include "header/logic_less_is_more.h"					// NOLINT
+#include "header/app_logic_template.h"					// NOLINT
 #include "timer.h"
 #include "window_manager.h"
 
